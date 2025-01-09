@@ -1,0 +1,10 @@
+[
+  	{
+		"name": "Axion Executive",
+		"unitType": "Civilian",
+		"uniques": [
+            "Gain a free [Axion Franchise] [in this city] <for [4] movement> <[1] times> <after which this unit is consumed>",
+			"[-1] Sight", "Unbuildable"],
+		"movement": 4,
+	},
+]
