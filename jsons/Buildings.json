@@ -1,0 +1,31 @@
+[
+  	{
+		"name": "Axion Refineries",
+		"gold": 5,
+		"isWonder": true,
+		"greatPersonPoints": {"Great Merchant": 2},
+		"uniques": ["Corporation",
+      "Quantity of strategic resources produced by the empire +[+100]%",
+      "[+2 Production] from every [Hydro Plant]",
+      "[+2 Production] from every [Solar Plant]",
+      "[+2 Production] from every [Nuclear Plant]",
+      "May buy [Axion Executives] units for [300] [Gold] [in all cities]",
+      "May buy [Axion Office] buildings for [1000] [Gold] [in all cities]"],
+		"requiredTech": "Corporations",
+		"quote": "'Give me your tired, your poor, your huddled masses yearning to breathe free, the wretched refuse of your teeming shore. Send these, the homeless, tempest-tossed to me, I lift my lamp beside the golden door!' - Emma Lazarus"
+	},
+  	{
+		"name": "Axion Office",
+		"gold": 2,
+		"greatPersonPoints": {"Great Merchant": 1},
+		"uniques": ["Office","Limited to [5] per Civilization"],
+		"requiredTech": "Corporations",
+	},
+  	{
+		"name": "Axion Franchise",
+		"gold": 2,
+		"greatPersonPoints": {"Great Merchant": 1},
+		"uniques": ["Franchise","Unbuildable","Cannot be purchased","[+1 Production] from every [Coal]","[+1 Production] from every [Uranium]","[+1 Production] from every [Oil]"],
+		"requiredTech": "Corporations",
+	},
+]
